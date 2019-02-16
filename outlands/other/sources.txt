@@ -1,0 +1,9 @@
+outlands-war-ensign.original.gif
+    http://wharrow.outlandsheralds.org/kingdom_armory/images/warensig.gif
+    Downloaded 2019/02/15
+
+outlands-war-ensign.original.attire-only.png
+    Stephen Warren, derived from outlands-war-ensign.original.gif
+
+outlands-war-ensign.redrawn.svg
+    Stephen Warren, derived from outlands-war-ensign.original.gif
