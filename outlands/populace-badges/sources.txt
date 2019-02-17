@@ -6,6 +6,19 @@ caerthe-populace-badge.original.jpg
 caerthe-populace-badge.redrawn.jpg
     Stephen Warren, derived from caerthe-populace-badge.original.jpg
 
+cross-flory-1.svg
+    http://heraldicart.org/cross-charge/cross-flory-1.svg
+    Downloaded 2019/02/16
+
+nahrun-kabirun-populace-badge.original.gif
+    http://wharrow.outlandsheralds.org/group_armory/images/nahrun_badge.gif
+    Downloaded 2019/02/16
+
+nahrun-kabirun-populace-badge.redrawn.svg
+    Stephen Warren, derived from:
+        nahrun-kabirun-populace-badge.original.gif
+        cross-flory-1.svg
+
 outlands-populace-badge.original.gif
     http://wharrow.outlandsheralds.org/kingdom_armory/images/ensign00.gif
     Downloaded 2019/02/07
