@@ -1,3 +1,10 @@
+caer-galen-device.original.gif
+    http://wharrow.outlandsheralds.org/group_armory/images/caergale.gif
+    Downloaed 2019/02/25
+
+caer-galen-populace-badge.redrawn.svg
+    Stephen Warren, derived from caer-galen-device.original.gif
+
 caerthe-populace-badge.original.jpg
     https://www.pinterest.com/baronyofcaerthe/
     Downloaded 2019/02/16
