@@ -26,7 +26,7 @@ outlands-populace-badge.original.gif
 outlands-populace-badge.redrawn.svg
     Stephen Warren, derived from outlands-populace-badge.original.gif
 
-unser-hafen-populace-badge.redrawn.svg
+unser-hafen-populace-badge*
     Stephen Warren, derived from various physical UH populace badges
 
 windkeep-populace-badge.original.gif
