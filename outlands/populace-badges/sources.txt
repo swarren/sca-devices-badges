@@ -36,6 +36,13 @@ outlands-populace-badge.redrawn.svg
 unser-hafen-populace-badge*
     Stephen Warren, derived from various physical UH populace badges
 
+plattefordham-device.original.gif
+    http://wharrow.outlandsheralds.org/group_armory/images/plattefo.gif
+    Downloaded 2019/02/26
+
+plattefordham-populace-badge.redrawn.svg
+    Stephen Warren, derived plattefordham-device.original.gif
+
 windkeep-populace-badge.original.gif
     http://wharrow.outlandsheralds.org/group_armory/images/windbadge.gif
     Downloaded 2019/02/17
