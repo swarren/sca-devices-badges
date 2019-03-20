@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="49.5 58.5 279 365.5" width="279" height="365.5">
+  <defs>
+    <clipPath id="artboard_clip_path">
+      <path d="M 49.5 58.5 L 328.5 58.5 L 328.5 424 L 49.5 424 Z"/>
+    </clipPath>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 test 
+    <dc:date>2019-03-17 21:53:40 +0000</dc:date>
+  </metadata>
+  <g id="Hammer_(2)" fill="none" stroke-dasharray="none" stroke-opacity="1" fill-opacity="1" stroke="none">
+    <title>Hammer (2)</title>
+    <g id="Hammer_(2): Layer 2" clip-path="url(#artboard_clip_path)">
+      <title>Layer 2</title>
+      <g id="Group_30">
+        <g id="Graphic_32">
+          <path d="M 185.3536 419.52195 C 188.83745 419.5236 192.1792 418.141 194.64353 415.67843 C 197.10784 413.21585 198.4928 409.87506 198.4936 406.3912 L 198.48433 76.13073 C 198.48264 68.87953 192.6048 63.00169 185.3536 63 L 159.28675 63 C 152.03555 63.00169 146.15771 68.87953 146.15602 76.13073 L 146.15602 406.3912 C 146.15771 413.6424 152.03555 419.52026 159.28675 419.52195 Z" fill="#f3f3f3"/>
+          <path d="M 185.3536 419.52195 C 188.83745 419.5236 192.1792 418.141 194.64353 415.67843 C 197.10784 413.21585 198.4928 409.87506 198.4936 406.3912 L 198.48433 76.13073 C 198.48264 68.87953 192.6048 63.00169 185.3536 63 L 159.28675 63 C 152.03555 63.00169 146.15771 68.87953 146.15602 76.13073 L 146.15602 406.3912 C 146.15771 413.6424 152.03555 419.52026 159.28675 419.52195 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+        <g id="Graphic_31">
+          <path d="M 324 153.47877 L 249.3578 74.67588 L 54 74.67588 L 54 153.47877 Z" fill="#f3f3f3"/>
+          <path d="M 324 153.47877 L 249.3578 74.67588 L 54 74.67588 L 54 153.47877 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

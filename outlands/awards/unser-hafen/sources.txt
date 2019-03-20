@@ -2,3 +2,31 @@ All files were created by Stephen Warren. Based on:
 - Older images at https://unserhafen.wixsite.com/unserhafen/baronial-awards
   from around 2019/03/18.
 - Blazons at http://wimble.outlandsheralds.org/awards_group.php?GroupID=6
+
+candle-enflamed-2.svg:
+  http://heraldicart.org/candle/candle-enflamed-2.svg
+  Downloaded 2019/03/19
+
+columbine-slipped-and-leaved.svg:
+  http://heraldicart.org/columbine/columbine-slipped-and-leaved.svg
+  Downloaded 2019/03/19
+
+flame-1.svg
+  http://heraldicart.org/flame/flame-1.svg
+  Downloaded 2019/03/19
+
+hammer-2.svg
+  http://heraldicart.org/hammer/hammer-2.svg
+  Downloaded 2019/03/19
+
+saltcellar-covered.svg:
+  http://heraldicart.org/saltcellar/saltcellar-covered.svg
+  Downloaded 2019/03/19
+
+stirrup-2.svg:
+  http://heraldicart.org/stirrup/stirrup-2.svg
+  Downloaded 2019/03/19
+
+torch.svg:
+  http://heraldicart.org/torch/torch.svg
+  Downloaded 2019/03/19
