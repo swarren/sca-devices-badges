@@ -19,6 +19,10 @@ hammer-2.svg
   http://heraldicart.org/hammer/hammer-2.svg
   Downloaded 2019/03/19
 
+rose-4.svg
+  http://heraldicart.org/rose/rose-4.svg
+  Downloaded 2019/03/19
+
 saltcellar-covered.svg:
   http://heraldicart.org/saltcellar/saltcellar-covered.svg
   Downloaded 2019/03/19
@@ -29,4 +33,8 @@ stirrup-2.svg:
 
 torch.svg:
   http://heraldicart.org/torch/torch.svg
+  Downloaded 2019/03/19
+
+wheat-stalk-of-2.svg
+  http://heraldicart.org/wheat/wheat-stalk-of-2.svg
   Downloaded 2019/03/19
