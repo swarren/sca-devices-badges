@@ -15,10 +15,10 @@
    version="1.1"
    id="svg1135"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="golden-ring-of-unser-hafen.svg"
-   inkscape:export-filename="/home/swarren/git_wa/sca-devices-badges/outlands/awards/unser-hafen/golden-ring-of-unser-hafen.png"
-   inkscape:export-xdpi="18.499994"
-   inkscape:export-ydpi="18.499994">
+   sodipodi:docname="order-of-harmonia.svg"
+   inkscape:export-filename="/home/swarren/git_wa/sca-devices-badges/outlands/awards/unser-hafen/guardians-of-the-portcullis-of-unser-hafen.png"
+   inkscape:export-xdpi="18.52"
+   inkscape:export-ydpi="18.52">
   <defs
      id="defs1129" />
   <sodipodi:namedview
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="-76.644683"
-     inkscape:cy="448.63856"
+     inkscape:zoom="1.979899"
+     inkscape:cx="85.051094"
+     inkscape:cy="414.54833"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -42,7 +42,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:object-paths="true" />
   <metadata
      id="metadata1132">
     <rdf:RDF>
@@ -61,10 +62,10 @@
      id="layer1"
      transform="translate(0.17727595,-1.9766557)">
     <g
-       id="g894">
+       id="g956">
       <g
          style="stroke-width:0.98781639"
-         transform="matrix(1.0123064,0,0,1.0123614,-0.27452582,2.0804843)"
+         transform="matrix(1.0123064,0,0,1.0123614,-0.2745237,2.0804854)"
          id="g1863">
         <path
            style="fill:#228b22;fill-opacity:1;stroke:#000000;stroke-width:0.98781639;stroke-miterlimit:4;stroke-dasharray:none"
@@ -262,11 +263,26 @@
            d="m 180.30911,157.98399 11.23247,-11.2566"
            id="path991" />
       </g>
-      <path
-         inkscape:connector-curvature="0"
-         id="path875"
-         d="m 102.65843,35.805625 a 69.358626,69.358626 0 0 0 -69.358557,69.358565 69.358626,69.358626 0 0 0 69.358557,69.35856 69.358626,69.358626 0 0 0 69.35908,-69.35856 69.358626,69.358626 0 0 0 -69.35908,-69.358565 z m 0,18.898588 a 49.514876,50.459817 0 0 1 49.51533,50.459977 49.514876,50.459817 0 0 1 -49.51533,50.45997 49.514876,50.459817 0 0 1 -49.514807,-50.45997 49.514876,50.459817 0 0 1 49.514807,-50.459977 z"
-         style="opacity:1;vector-effect:none;fill:#e0d000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         id="g910">
+        <path
+           style="opacity:1;vector-effect:none;fill:#e0d000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           d="M 84.952021,37.270301 V 64.932694 H 120.36537 V 37.270301 Z m 5.976897,5.976897 H 114.3895 V 58.956315 H 90.928918 Z"
+           id="rect930"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e0d000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 79.60067,50.938229 58.00922,138.80894 h 44.34252 44.95643 L 125.71672,50.938229 h -23.05027 l -0.008,0.587744 -0.008,-0.587744 z"
+           id="path922"
+           inkscape:connector-curvature="0" />
+        <ellipse
+           style="opacity:1;vector-effect:none;fill:#e0d000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path928"
+           cx="102.63879"
+           cy="139.32115"
+           rx="44.707962"
+           ry="11.063326" />
+      </g>
     </g>
   </g>
 </svg>
