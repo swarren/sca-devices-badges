@@ -1,6 +1,16 @@
+(Various images taken from ../populace-badges)
+
 laurel-wreath-5.svg
     http://heraldicart.org/laurel/laurel-wreath-5.svg
     Downloaed 2019/03/26
+
+caer-galen-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/caergale.gif
+
+caerthe-device.svf
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/caerthe0.gif
 
 unser-hafen-device.svg
     Stephen Warren; inspired by:
