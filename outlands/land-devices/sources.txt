@@ -12,6 +12,14 @@ caerthe-device.svf
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/caerthe0.gif
 
+plattefordham-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/plattefo.gif
+
 unser-hafen-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/unserhaf.gif
+
+windkeep-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/windkeep.gif
