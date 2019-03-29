@@ -1,0 +1,5 @@
+(Various images taken from ../outlands/land-devices)
+
+sca-device.svg
+    Stephen Warren; inspired by:
+    https://sca.org/
