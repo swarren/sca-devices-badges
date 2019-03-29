@@ -1,8 +1,12 @@
 (Various images taken from ../populace-badges)
 
+crown_saxon_vallary.jpg
+    http://mistholme.com/wp-content/uploads/2014/01/crown_saxon_vallary.jpg
+    Downloaded 2019/03/28
+
 laurel-wreath-5.svg
     http://heraldicart.org/laurel/laurel-wreath-5.svg
-    Downloaed 2019/03/26
+    Downloaded 2019/03/26
 
 caer-galen-device.svg
     Stephen Warren; inspired by:
@@ -11,6 +15,10 @@ caer-galen-device.svg
 caerthe-device.svf
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/caerthe0.gif
+
+outlands-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/kingdom_armory/images/king0000.gif
 
 plattefordham-device.svg
     Stephen Warren; inspired by:
