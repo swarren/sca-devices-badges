@@ -28,6 +28,10 @@ plattefordham-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/plattefo.gif
 
+scola-metallorum-device..svg
+    Stephen Warren; inspired by, and traced from:
+    http://wharrow.outlandsheralds.org/group_armory/images/schola00.gif
+
 unser-hafen-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/unserhaf.gif
