@@ -16,6 +16,10 @@ caerthe-device.svf
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/caerthe0.gif
 
+hawks-hollow-device.svg
+    Stephen Warren; inspired by and partially traced from:
+    http://wharrow.outlandsheralds.org/group_armory/images/hawkshol.gif
+
 outlands-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/kingdom_armory/images/king0000.gif
