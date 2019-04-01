@@ -28,9 +28,13 @@ caer-galen-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/caergale.gif
 
-caerthe-device.svf
+caerthe-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/caerthe0.gif
+
+citadel-of-the-southern-pass-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/citadel0.gif
 
 dragonsspine-device.svg
     http://wharrow.outlandsheralds.org/group_armory/images/dragonss.gif
