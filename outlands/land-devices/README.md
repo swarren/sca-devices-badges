@@ -24,11 +24,11 @@ land-devices
 
 [SVG](caerthe-device.svg) | [PDF](caerthe-device.pdf)
 
-## citadel-of-the-southern-pas-device.svg
+## citadel-of-the-southern-pass-device.svg
 
-![citadel-of-the-southern-pas-device.svg](citadel-of-the-southern-pas-device.svg)
+![citadel-of-the-southern-pass-device.svg](citadel-of-the-southern-pass-device.svg)
 
-[SVG](citadel-of-the-southern-pas-device.svg) | [PDF](citadel-of-the-southern-pas-device.pdf)
+[SVG](citadel-of-the-southern-pass-device.svg) | [PDF](citadel-of-the-southern-pass-device.pdf)
 
 ## dragonsspine-device.svg
 
