@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "$(basename "$(pwd)")" > README.md
+echo "# $(basename "$(pwd)")" > README.md
 echo >> README.md
 
 # There had best not be spaces in filenames...
