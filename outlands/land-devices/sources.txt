@@ -4,9 +4,17 @@ crown_saxon_vallary.jpg
     http://mistholme.com/wp-content/uploads/2014/01/crown_saxon_vallary.jpg
     Downloaded 2019/03/28
 
+eagle-5.svg
+    http://heraldicart.org/eagle/eagle-5.svg
+    Downloaded 2019/03/31
+
 laurel-wreath-5.svg
     http://heraldicart.org/laurel/laurel-wreath-5.svg
     Downloaded 2019/03/26
+
+aarquelle-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/aarquell.gif
 
 caer-galen-device.svg
     Stephen Warren; inspired by:
