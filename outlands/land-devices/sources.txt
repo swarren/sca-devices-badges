@@ -25,7 +25,12 @@ caerthe-device.svf
     http://wharrow.outlandsheralds.org/group_armory/images/caerthe0.gif
 
 dragonsspine-device.svg
+    http://wharrow.outlandsheralds.org/group_armory/images/dragonss.gif
     Stephen Warren; inspired by and partially traced from:
+
+fontaine-dans-sable-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/fontaine.gif
 
 hawks-hollow-device.svg
     Stephen Warren; inspired by and partially traced from:
