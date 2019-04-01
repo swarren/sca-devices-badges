@@ -12,9 +12,17 @@ laurel-wreath-5.svg
     http://heraldicart.org/laurel/laurel-wreath-5.svg
     Downloaded 2019/03/26
 
+scorpion-1.svg
+    http://heraldicart.org/scorpion/scorpion-1.svg
+    Downloaded 2019/03/31
+
 aarquelle-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/aarquell.gif
+
+al-barran-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/albarran.gif
 
 caer-galen-device.svg
     Stephen Warren; inspired by:
