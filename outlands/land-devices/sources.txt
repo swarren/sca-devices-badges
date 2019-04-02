@@ -16,6 +16,10 @@ scorpion-1.svg
     http://heraldicart.org/scorpion/scorpion-1.svg
     Downloaded 2019/03/31
 
+tower-1.svg
+    http://heraldicart.org/tower/tower-1.svg
+    Downloaded 2019/04/01
+
 aarquelle-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/aarquell.gif
@@ -23,6 +27,10 @@ aarquelle-device.svg
 al-barran-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/albarran.gif
+
+blackwater-keep-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/blackwater.gif
 
 caer-galen-device.svg
     Stephen Warren; inspired by:

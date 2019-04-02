@@ -12,6 +12,12 @@
 
 [SVG](al-barran-device.svg) | [PDF](al-barran-device.pdf)
 
+## blackwater-keep-device.svg
+
+![blackwater-keep-device.svg](blackwater-keep-device.svg)
+
+[SVG](blackwater-keep-device.svg) | [PDF](blackwater-keep-device.pdf)
+
 ## caer-galen-device.svg
 
 ![caer-galen-device.svg](caer-galen-device.svg)
