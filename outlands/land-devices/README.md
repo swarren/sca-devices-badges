@@ -42,6 +42,12 @@
 
 [SVG](citadel-of-the-southern-pass-device.svg) | [PDF](citadel-of-the-southern-pass-device.pdf)
 
+## draca-mor.svg
+
+![draca-mor.svg](draca-mor.svg)
+
+[SVG](draca-mor.svg) | [PDF](draca-mor.pdf)
+
 ## dragonsspine-device.svg
 
 ![dragonsspine-device.svg](dragonsspine-device.svg)
