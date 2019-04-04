@@ -66,6 +66,12 @@
 
 [SVG](fontaine-dans-sable-device.svg) | [PDF](fontaine-dans-sable-device.pdf)
 
+## gleann-medonach-device.svg
+
+![gleann-medonach-device.svg](gleann-medonach-device.svg)
+
+[SVG](gleann-medonach-device.svg) | [PDF](gleann-medonach-device.pdf)
+
 ## hawks-hollow-device.svg
 
 ![hawks-hollow-device.svg](hawks-hollow-device.svg)

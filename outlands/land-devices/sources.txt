@@ -1,5 +1,9 @@
 (Various images taken from ../populace-badges)
 
+acorn-1.svg
+    http://heraldicart.org/acorn/acorn-1.svg
+    Downloaded 2019/04/03
+
 crown_saxon_vallary.jpg
     http://mistholme.com/wp-content/uploads/2014/01/crown_saxon_vallary.jpg
     Downloaded 2019/03/28
@@ -19,6 +23,10 @@ scorpion-1.svg
 tower-1.svg
     http://heraldicart.org/tower/tower-1.svg
     Downloaded 2019/04/01
+
+tree-2.svg
+    http://heraldicart.org/tree/tree-2.svg
+    Downloaded 2019/04/03
 
 aarquelle-device.svg
     Stephen Warren; inspired by:
@@ -64,6 +72,10 @@ drygestan-device.svg
 fontaine-dans-sable-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/fontaine.gif
+
+gleann-medonach-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/glenmedo.gif
 
 hawks-hollow-device.svg
     Stephen Warren; inspired by and partially traced from:
