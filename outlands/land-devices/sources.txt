@@ -50,12 +50,16 @@ citadel-of-the-southern-pass-device.svg
     http://wharrow.outlandsheralds.org/group_armory/images/citadel0.gif
 
 draca-mor-device.svg
-    Stephen Warren; inspired by:
+    Stephen Warren; inspired by and partially traced from:
     http://www.draca-mor.org/wp-content/uploads/2018/05/small.png
 
 dragonsspine-device.svg
-    http://wharrow.outlandsheralds.org/group_armory/images/dragonss.gif
     Stephen Warren; inspired by and partially traced from:
+    http://wharrow.outlandsheralds.org/group_armory/images/dragonss.gif
+
+drygestan-device.svg
+    Stephen Warren; inspired by and partially traced from:
+    http://wharrow.outlandsheralds.org/group_armory/images/drygesta.gif
 
 fontaine-dans-sable-device.svg
     Stephen Warren; inspired by:

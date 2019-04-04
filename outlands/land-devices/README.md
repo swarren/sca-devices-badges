@@ -54,6 +54,12 @@
 
 [SVG](dragonsspine-device.svg) | [PDF](dragonsspine-device.pdf)
 
+## drygestan-device.svg
+
+![drygestan-device.svg](drygestan-device.svg)
+
+[SVG](drygestan-device.svg) | [PDF](drygestan-device.pdf)
+
 ## fontaine-dans-sable-device.svg
 
 ![fontaine-dans-sable-device.svg](fontaine-dans-sable-device.svg)
