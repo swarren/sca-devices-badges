@@ -43,7 +43,7 @@ blackwater-keep-device.svg
 bryngolau-device.svg
     Stephen Warren; inspired by:
     Background of http://www.bryngolau.org/, i.e.:
-    http://www.bryngolau.org/wpimages/wp5b4ec14b_06.jpg
+    http://www.bryngolau.org/wpimages/wp5b4ec14b_06.jpg (saved as bryngolau.jpg)
 
 caer-galen-device.svg
     Stephen Warren; inspired by:
@@ -59,7 +59,7 @@ citadel-of-the-southern-pass-device.svg
 
 draca-mor-device.svg
     Stephen Warren; inspired by and partially traced from:
-    http://www.draca-mor.org/wp-content/uploads/2018/05/small.png
+    http://www.draca-mor.org/wp-content/uploads/2018/05/small.png (saved as draca-mor.png)
 
 dragonsspine-device.svg
     Stephen Warren; inspired by and partially traced from:
@@ -79,7 +79,7 @@ gleann-medonach-device.svg
 
 hawks-hollow-device.svg
     Stephen Warren; inspired by and partially traced from:
-    http://wharrow.outlandsheralds.org/group_armory/images/dragonss.gif
+    http://wharrow.outlandsheralds.org/group_armory/images/hawkshol.gif
 
 outlands-device.svg
     Stephen Warren; inspired by:
