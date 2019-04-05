@@ -89,6 +89,10 @@ kahlland-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/kahlland.gif
 
+nahrun-kabirun-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/nahrun00.gif
+
 outlands-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/kingdom_armory/images/king0000.gif
