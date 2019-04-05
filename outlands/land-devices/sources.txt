@@ -24,6 +24,10 @@ tower-1.svg
     http://heraldicart.org/tower/tower-1.svg
     Downloaded 2019/04/01
 
+tree-blasted-1.svg
+    http://heraldicart.org/tree/tree-blasted-1.svg
+    Downloaded 2019/04/04
+
 tree-2.svg
     http://heraldicart.org/tree/tree-2.svg
     Downloaded 2019/04/03
@@ -80,6 +84,10 @@ gleann-medonach-device.svg
 hawks-hollow-device.svg
     Stephen Warren; inspired by and partially traced from:
     http://wharrow.outlandsheralds.org/group_armory/images/hawkshol.gif
+
+kahlland-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/kahlland.gif
 
 outlands-device.svg
     Stephen Warren; inspired by:
