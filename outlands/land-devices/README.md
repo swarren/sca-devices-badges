@@ -78,6 +78,18 @@
 
 [SVG](hawks-hollow-device.svg) | [PDF](hawks-hollow-device.pdf)
 
+## kahlland-device.svg
+
+![kahlland-device.svg](kahlland-device.svg)
+
+[SVG](kahlland-device.svg) | [PDF](kahlland-device.pdf)
+
+## nahrun-kabirun-device.svg
+
+![nahrun-kabirun-device.svg](nahrun-kabirun-device.svg)
+
+[SVG](nahrun-kabirun-device.svg) | [PDF](nahrun-kabirun-device.pdf)
+
 ## outlands-device.svg
 
 ![outlands-device.svg](outlands-device.svg)
