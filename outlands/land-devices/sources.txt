@@ -101,6 +101,10 @@ plattefordham-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/plattefo.gif
 
+rio-de-las-animas-device.svg
+    Stephen Warren; inspired by, and partially traced from:
+    http://wharrow.outlandsheralds.org/group_armory/images/lostsoul.gif
+
 scola-metallorum-device..svg
     Stephen Warren; inspired by, and traced from:
     http://wharrow.outlandsheralds.org/group_armory/images/schola00.gif

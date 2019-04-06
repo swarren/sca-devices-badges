@@ -102,6 +102,12 @@
 
 [SVG](plattefordham-device.svg) | [PDF](plattefordham-device.pdf)
 
+## rio-de-las-animas-device.svg
+
+![rio-de-las-animas-device.svg](rio-de-las-animas-device.svg)
+
+[SVG](rio-de-las-animas-device.svg) | [PDF](rio-de-las-animas-device.pdf)
+
 ## scola-metallorum-device.svg
 
 ![scola-metallorum-device.svg](scola-metallorum-device.svg)
