@@ -121,6 +121,10 @@ unser-hafen-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/unserhaf.gif
 
+white-mountain-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/whitemtn.gif
+
 windkeep-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/windkeep.gif

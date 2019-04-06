@@ -126,6 +126,12 @@
 
 [SVG](unser-hafen-device.svg) | [PDF](unser-hafen-device.pdf)
 
+## white-mountain-device.svg
+
+![white-mountain-device.svg](white-mountain-device.svg)
+
+[SVG](white-mountain-device.svg) | [PDF](white-mountain-device.pdf)
+
 ## windkeep-device.svg
 
 ![windkeep-device.svg](windkeep-device.svg)
