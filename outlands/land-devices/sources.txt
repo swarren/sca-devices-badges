@@ -12,6 +12,10 @@ eagle-5.svg
     http://heraldicart.org/eagle/eagle-5.svg
     Downloaded 2019/03/31
 
+grapes-bunch-of-slipped-and-leaved.svg
+    http://heraldicart.org/grape/grapes-bunch-of-slipped-and-leaved.svg
+    Downloaded 2019/04/05
+
 laurel-wreath-5.svg
     http://heraldicart.org/laurel/laurel-wreath-5.svg
     Downloaded 2019/03/26
@@ -104,6 +108,10 @@ plattefordham-device.svg
 rio-de-las-animas-device.svg
     Stephen Warren; inspired by, and partially traced from:
     http://wharrow.outlandsheralds.org/group_armory/images/lostsoul.gif
+
+saint-golias-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/golias00.gif
 
 scola-metallorum-device..svg
     Stephen Warren; inspired by, and traced from:

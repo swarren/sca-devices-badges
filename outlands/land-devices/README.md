@@ -108,6 +108,12 @@
 
 [SVG](rio-de-las-animas-device.svg) | [PDF](rio-de-las-animas-device.pdf)
 
+## saint-golias-device.svg
+
+![saint-golias-device.svg](saint-golias-device.svg)
+
+[SVG](saint-golias-device.svg) | [PDF](saint-golias-device.pdf)
+
 ## scola-metallorum-device.svg
 
 ![scola-metallorum-device.svg](scola-metallorum-device.svg)
