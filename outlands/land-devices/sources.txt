@@ -4,6 +4,13 @@ acorn-1.svg
     http://heraldicart.org/acorn/acorn-1.svg
     Downloaded 2019/04/03
 
+blaiddwy.gif
+    http://wharrow.outlandsheralds.org/group_armory/images/blaiddwy.gif
+    Downloaded 2019/11/15
+
+blaiddwy.wolf-only.gif
+    Stephen Warren, derived from blaiddwy.gif
+
 crown_saxon_vallary.jpg
     http://mistholme.com/wp-content/uploads/2014/01/crown_saxon_vallary.jpg
     Downloaded 2019/03/28
@@ -47,6 +54,11 @@ al-barran-device.svg
 blackwater-keep-device.svg
     Stephen Warren; inspired by:
     http://wharrow.outlandsheralds.org/group_armory/images/blackwater.gif
+
+blaiddwyn-device.svg
+    Stephen Warren; inspired by:
+    http://wharrow.outlandsheralds.org/group_armory/images/blaiddwy.gif
+    Derived from blaiddwy.wolf-only.gif
 
 bryngolau-device.svg
     Stephen Warren; inspired by:

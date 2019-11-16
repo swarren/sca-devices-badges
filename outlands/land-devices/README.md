@@ -18,6 +18,12 @@
 
 [SVG](blackwater-keep-device.svg) | [PDF](blackwater-keep-device.pdf)
 
+## blaiddwyn-device.svg
+
+![blaiddwyn-device.svg](blaiddwyn-device.svg)
+
+[SVG](blaiddwyn-device.svg) | [PDF](blaiddwyn-device.pdf)
+
 ## bryngolau-device.svg
 
 ![bryngolau-device.svg](bryngolau-device.svg)
