@@ -3,3 +3,7 @@
 sca-device.svg
     Stephen Warren; inspired by:
     https://sca.org/
+
+water-bearer.svg
+    Stephen Warren; inspired by:
+    http://www.inlandregion.org/heraldry/officers/waterbearer.php
